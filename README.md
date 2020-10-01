@@ -4,7 +4,10 @@
 
 Required Libraries:
 
-                   Numpy , Matplotlib, Seaborn, Pandas 
+                  matplotlib Version: 3.2.2
+                  Numpy Version: 1.18.5
+                  Pandas Version: 1.0.5
+                  Python Version: 3.7.6
                    
 Required Dataset:   
 
