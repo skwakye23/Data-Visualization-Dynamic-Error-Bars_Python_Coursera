@@ -3,6 +3,9 @@
  Plotting Charting Data Representation in Python from Michigan Univeristy, USA. 
 
 Required Libraries:
+
                    Numpy , Matplotlib, Seaborn, Pandas 
+                   
 Required Dataset:   
+
                   This was generated using the numpy random normal method/function. Kindly referred to the notebook for more info.
